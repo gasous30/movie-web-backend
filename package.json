@@ -1,0 +1,24 @@
+{
+  "name": "movie-web-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^14.3.2",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "axios": "^0.25.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8"
+  }
+}
