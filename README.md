@@ -2,7 +2,7 @@
 
 ## **Member**
 
-#### Octavianus Bagaswara Adi - 182
+#### Octavianus Bagaswara Adi - 182, Jobdesc: Fullstack Solo
 
 ## **Database**
 
